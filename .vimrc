@@ -34,3 +34,6 @@ map <ScrollWheelDown> <C-E>
 set noerrorbells
 set novisualbell
 set t_vb=
+
+" --- 붙여넣기 토글 ---
+set pastetoggle=<F2>
