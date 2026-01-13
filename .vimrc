@@ -29,3 +29,8 @@ set history=100       " 명령어 기록을 100개까지 저장
 " <C-Y>: 화면을 위로 1줄 올림 / <C-E>: 화면을 아래로 1줄 내림
 map <ScrollWheelUp> <C-Y>
 map <ScrollWheelDown> <C-E>
+
+" --- 알림음 끄기 ---
+set noerrorbells
+set novisualbell
+set t_vb=
