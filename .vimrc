@@ -37,3 +37,6 @@ set t_vb=
 
 " --- 붙여넣기 토글 ---
 set pastetoggle=<F2>
+
+" --- 클립보드 이용 ---
+set clipboard=unnamed
